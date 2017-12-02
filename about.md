@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a full stack software engineer working for Parkeon in Poole.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I live in Dorset with my wife and daughter. I also have a grown-up son.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[srichmond3000@outlook.com](mailto:srichmond3000@outlook.com)
